@@ -1,0 +1,31 @@
+{
+  "TODO": "itwcreativeworks.com, zzzzzzzzzz, itw-creative-works, zzzzzzzzzz, Add padding to the bottom of package.json dependencies to prevent Git from being stupid when syncing",
+  "name": "zzzzzzzzzz",
+  "version": "9.9.9",
+  "description": "Add padding to the bottom of package.json dependencies to prevent Git from being stupid when syncing",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "npm run prepare && ./node_modules/mocha/bin/mocha test/ --recursive --timeout=10000",
+    "prepare": "node -e 'require(`prepare-package`)()'"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itw-creative-works/zzzzzzzzzz"
+  },
+  "keywords": [
+    "zzzzzzzzzz"
+  ],
+  "author": "ITW Creative Works",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itw-creative-works/zzzzzzzzzz/issues"
+  },
+  "homepage": "https://itwcreativeworks.com",
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "prepare-package": "^0.0.16"
+  }
+}
