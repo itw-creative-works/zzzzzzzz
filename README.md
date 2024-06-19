@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg">
+  <a href="https://itwcreativeworks.com">
     <img src="https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg" width="100px">
   </a>
 </p>
@@ -24,30 +24,30 @@
   <strong>zzzzzzzzzz</strong> adds padding to the bottom of your <code>dependencies</code> to prevent Git from getting confused when merging!
 </p>
 
-## Features
+## 🦄 Features
 * Add padding to the bottom of your `dependencies` so Git doesn't get stupid and mess up your code when you merge your `package.json` file!
 
-## Install zzzzzzzzzz
-### Install via npm
+## 📦 Install zzzzzzzzzz
+### Option 1: Install via npm
 Install with npm if you plan to use `zzzzzzzzzz` in a Node project or in the browser.
 ```shell
 npm install zzzzzzzzzz
 ```
 
-## Using zzzzzzzzzz
+## ⚡️ Using zzzzzzzzzz
 After you have followed the install step, you can start using `zzzzzzzzzz` to add padding to your `package.json`
 
 
-## What Can zzzzzzzzzz do?
+## 📝 What Can zzzzzzzzzz do?
 Have you ever tried merging with Git and it doesn't understand how to prooperly merge your `package.json` file? Well, this package solves that problem!
 
 `zzzzzzzzzz` always stays at the bottom of your `dependencies` and adds padding to the bottom of that part of the `package.json` file so Git doesn't get confused when merging!
 
-## Final Words
+## 🗨️ Final Words
 If you are still having difficulty, we would love for you to post
 a question to [the zzzzzzzzzz issues page](https://github.com/itw-creative-works/zzzzzzzzzz/issues). It is much easier to answer questions that include your code and relevant files! So if you can provide them, we'd be extremely grateful (and more likely to help you find the answer!)
 
-## Projects Using this Library
+## 📚 Projects Using this Library
 * coming soon!
 
 Ask us to have your project listed! :)
